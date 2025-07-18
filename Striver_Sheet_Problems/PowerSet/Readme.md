@@ -11,3 +11,5 @@ Time complexity :- O(2^n).
 4. for not add the element..Just remove the last element from the current list.
 
 5. Add the current list in the given Arraylist (when index == Array.length).
+
+Time complexity :- O(2^n * n).
