@@ -99,8 +99,8 @@ public class Problem{
         // delete(root,4);
         // inorder(root);
 
-        int x = 6;
-        int y = 10;
+        int x = 3;
+        int y = 12;
 
         // call the function
        PrintInRange(root,x,y);
