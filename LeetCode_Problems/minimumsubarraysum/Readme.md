@@ -17,4 +17,4 @@ Given an array of positive integers nums and a positive integer target, return t
 return min == Integer.MAX_VALUE ? 0 : min;
 
 7. Time complexity :- O(N).
-Space Complecity :- O(1).
+Space Complexity :- O(1).
