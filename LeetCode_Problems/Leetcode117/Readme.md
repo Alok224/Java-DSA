@@ -25,3 +25,5 @@ Initially, all next pointers are set to NULL.
 5. check the another condition if i < size - 1 then currentnode.next = queue.peek() else currentnode.next = null.
 
 5. return root.
+
+6. Time complexity :- O(N).
