@@ -17,7 +17,7 @@ class Solution {
                 if(s.charAt(l) == ch){
                     if(left_index == -1){
                         left_index = l;
-                    }
+                    }a        
                     right_index = l;
                 }
             }
