@@ -21,7 +21,7 @@ class Solution {
         for(int i = 0; i<n; i++){
             boolean trueorfalse = function(matrix[i],target);
             if(trueorfalse == true){
-                return true;
+                return true;n
             }
         }
         return false;
